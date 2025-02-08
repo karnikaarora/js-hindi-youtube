@@ -3,7 +3,7 @@ let score = "hitesh"
 //console.log(typeof score);
 //console.log(typeof(score));
 
-let valueInNumber = Number(score)
+let valueInNumber = Number(score)  //converts score into a number 
 //console.log(typeof valueInNumber);
 //console.log(valueInNumber);
 
@@ -14,7 +14,7 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = "hitesh"
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
+let booleanIsLoggedIn = Boolean(isLoggedIn)   //converts isLoggedIn into a boolean
 //  console.log(booleanIsLoggedIn);
 
 // 1 => true; 0 => false
