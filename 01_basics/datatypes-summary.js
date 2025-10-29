@@ -10,6 +10,7 @@ let userEmail;
 
 const id = Symbol('123')
 const anotherId = Symbol('123')
+//inn dono ki result different honge yeh dono alag symbols mei convert honge yahi property hai symbol ki
 
 console.log(id === anotherId);
 
