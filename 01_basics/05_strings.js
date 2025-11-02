@@ -36,6 +36,8 @@ console.log(newStringOne.trim());
 //.trim() removes leading and trailing spaces (but not spaces inside the string).
 
 const url = "https://hitesh.com/hitesh%20choudhary"
+//when user adds a space in the url link browser usse %20 man leta hai 
+//use replace to replace the %20 with hyphen 
 
 console.log(url.replace('%20', '-'))
 //.replace(oldValue, newValue) replaces the first occurrence of oldValue with newValue.
