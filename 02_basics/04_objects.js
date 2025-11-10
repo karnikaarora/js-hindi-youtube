@@ -61,6 +61,7 @@ const course = {
     courseInstructor: "hitesh"
 }
 
+//DECONSTRUCTING OF OBJECT 
 // course.courseInstructor
 
 const {courseInstructor: instructor} = course
